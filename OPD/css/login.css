@@ -1,0 +1,43 @@
+.login{
+ margin-top: 15%;
+ margin-left: 35%;
+    
+    padding-bottom: 40px;  
+  height: 40%px;
+width: 30%;
+background:  rgb(240, 197, 197);
+display: block;
+/* text-align: center; */
+font-size: x-large;
+
+}
+body{
+background-image: url("../images/R.png");
+background-repeat: no-repeat;
+height:500px;
+width:100%;
+}
+.l_email{
+   
+ margin: 9px;
+width: 100%;
+padding: 12px 20px;
+display: inline-block;
+    background-color: aquamarine;
+}
+
+.l-login{
+    text-align: left;
+}
+
+.err{
+    color: red;
+}
+#inputype{
+    padding-left: 10px;
+}
+.login label{
+    width:100px;
+    display: inline-block;
+
+}

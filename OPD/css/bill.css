@@ -1,0 +1,33 @@
+
+.header{
+
+
+text-align: center;
+}
+
+.patient_details{
+    /* margin-top: 15px; */
+    display: flex;
+   
+    float: left;  
+    align-items: left;
+}
+.logo{
+ margin: 30px;
+ height: 50px;
+ width: 50px;
+ border-radius: 50%;
+}
+.print_b{
+align-items: center;
+
+
+}
+.print{
+/* background-color: blueviolet; */
+margin-left: 40%;
+margin-right: 40%;
+}
+.print_b{
+    margin-left: 27%;
+}

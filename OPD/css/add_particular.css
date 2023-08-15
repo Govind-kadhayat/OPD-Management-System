@@ -1,0 +1,19 @@
+.particular_add{
+    border-style:double;
+  /* margin-top: 10%; */
+
+/* background-color: aqua; */
+
+}
+.particular_add,input{
+   padding-left: 40px;
+}
+.particular_add,label{
+    display: inline-block;
+    width: 1160px;
+
+}
+table{
+    background-color: yellowgreen;
+    margin-left: 20%;
+}

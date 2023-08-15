@@ -1,0 +1,37 @@
+.form_group{
+padding:10px ;
+border-bottom: 1px solid #23c;
+}
+#login_form{
+width: 50%;
+}
+#login_form  label{
+width: 15%;
+display:inline-block;
+
+}
+#login_form  input{
+    width: 50%;
+    display:inline-block;
+    height: 30px;
+    }
+    #login_form  input[type=submit]{
+        width: 100px;
+        height: 30px;
+        background-color: rgb(30, 235, 30);
+        border: none;
+        color: white;
+        margin-left: 15%;
+        }
+        #login_form  input[type=reset]{
+            width: 100px;
+            height: 30px;
+            background-color:red;
+            border: none;
+            color: white;
+            margin-left:10%;
+            }
+   .form_group:last-child{
+               border-bottom: none;
+              }
+        

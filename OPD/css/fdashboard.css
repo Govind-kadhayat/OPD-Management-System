@@ -1,0 +1,49 @@
+
+table{
+
+    background-color: rgb(232, 176, 176);
+    width: 100%;
+    /* padding: 10px; */
+}
+
+table td{
+    font-size: 1.2rem;
+    padding: 5px;
+}
+.btn{
+    background-color: #fff;
+    color: rgb(227, 113, 113);
+    padding: 5px 30px;
+    border-radius: 50%;
+    text-decoration: none;
+
+}
+.btn:hover{
+   background: rgb(232, 202, 125);
+   color: #ffff;
+}
+table.center {
+    margin-left: auto;
+    margin-right: auto;
+  }
+  table,
+  th,
+  td {
+    border: 1px solid black;
+    border-collapse: collapse;
+
+  }
+/* .data{
+    margin-top: 100px;
+} */
+footer{
+    background-color: aquamarine;
+}
+.butnreg{
+    margin-top: 100px;
+}
+.flogo{
+    margin-right: 80%;
+    background-color: rgb(26, 153, 185);
+
+}
